@@ -1,2 +1,11 @@
 venv/
+.venv/
 __pycache__/
+*.pyc
+.pytest_cache/
+.env
+state/
+vendor/
+uv.lock
+dist/
+*.egg-info/
